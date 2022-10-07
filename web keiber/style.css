@@ -1,0 +1,31 @@
+h1{
+    color: brown;
+}
+body{
+    background-image: url(img/img\ fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #c72e1554;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    text-align: right;
+}
+.menu li a{
+    text-decoration: solid;
+    color: blue;
+    padding: auto;
+    display: block;
+    text-align: right;
+    
+
+}
+.menu li{
+    display: inline-block;
+    text-align: right;
+    border: #07010054;
+}

@@ -1,0 +1,17 @@
+
+.caja {
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+p{
+    line-height: 22px;
+}
+footer{
+    text-align: center;
+}
+.menuprincipal{
+    display: flex;
+    border: 1px #000;
+}
